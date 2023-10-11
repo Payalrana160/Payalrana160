@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Payal Rana</h1>
 <h3 align="center">A passionate software engineer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payalrana160&label=Profile%20views&color=0e75b6&style=flat" alt="payalrana160" /> </p>
 
@@ -21,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=payalrana160&show_icons=true&locale=en" alt="payalrana160" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=payalrana160&" alt="payalrana160" /></p>
-
